@@ -13,7 +13,8 @@
 	--font:							Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;		/* font used in most places														*/
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	
-	--background:					url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/background.jpg);	/* general background image						*/
+	--background:					url(https://www.google.com/search?q=wendy+red+velvet&rlz=1C5CHFA_enUS852US852&sxsrf=ALeKk01eVDZjjkXFucMaPQs6AOzO8NauOw:1587091356744&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiuuq2EuO7oAhVWCM0KHXGKBzAQ_AUoAnoECBsQBA&biw=1280&bih=559#imgrc=k6OJv49CjegZtM
+	);	/* general background image						*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of general background - values: [cover/contain/auto])					*/
 	--backgroundblur:				0px;						/* default: 0px					(only works when --background is set to an image)								*/
 	
